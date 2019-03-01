@@ -43,6 +43,10 @@ Driver Code to call/invoke your function is mentioned above.*/
 
 /*The structure of the Node is */
 #include <stack>
+#include<stdio.h>
+#include<stdlib.h>
+#include<iostream>
+using namespace std;
 struct Node
 {
     int data;
